@@ -1,0 +1,12 @@
+li a {
+    color: green;
+}
+body {
+    background: white url("images/background.gif") no-repeat right bottom;
+}
+.spin {
+	opacity: 0.2;
+}
+#image_dis {
+	border-radius: 50%;
+}
